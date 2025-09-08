@@ -151,7 +151,7 @@ The Open-Meteo API supports additional parameters. Update the API call in `getWe
 
 ## 👨‍💻 Author
 
-**Ahmad Sahl P**
+**Ahmad SP**
 - Created a modern weather application with clean design and responsive layout
 
 ## 🙏 Acknowledgments
@@ -162,5 +162,6 @@ The Open-Meteo API supports additional parameters. Update the API call in `getWe
 - **OpenWeatherMap**: For weather condition icons
 
 ---
+
 
 **Enjoy checking the weather! 🌈**
